@@ -216,7 +216,7 @@ And so we use pattern matching with lists, tuples, functions and we also deal wi
 
 ---
 
-If you have any doubts about the code made during the article, access the [repository](https://github.com/jpbrab0/pattern-matching-article) that contains the project made during that article.
+If you have any questions about the code made during the article, access the [repository](https://github.com/jpbrab0/pattern-matching-article) that contains the project made during that article.
 
 ---
 
